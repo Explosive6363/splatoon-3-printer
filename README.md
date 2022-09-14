@@ -12,7 +12,7 @@
 #### 準備
 ##### Linux
 - avr-libc
-- avr-gcc
+- avr-gcc  
 をインストールしておく
 ArchLinuxなら
 ```angular2html
@@ -20,7 +20,7 @@ yay -S avr-libc avr-gcc
 ```
 
 ##### Python
-- pilow
+- pilow  
 をインストール
 ```angular2html
 pip3 install pillow
