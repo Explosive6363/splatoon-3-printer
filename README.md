@@ -1,5 +1,6 @@
 # splatoon-3-printer
-フォーク元のリポジトリをスプラトゥーン3でも動くようにしました。
+フォーク元のリポジトリをスプラトゥーン3でも動くようにしました。  
+使用は自己責任でお願いします。
 
 ## 動作検証
 ### 必要なもの
@@ -38,7 +39,7 @@ pip3 install pillow
 
 #### Arduinoにバイナリを焼く
 1. 画像の赤枠部分のピンをジャンプさせる
-   1. [PXL_20220914_060833015](https://user-images.githubusercontent.com/49982049/190075709-5ea909af-ed3d-4481-ba22-b3b421440ecd.jpg)
+   1. ![PXL_20220914_060833015](https://user-images.githubusercontent.com/49982049/190075709-5ea909af-ed3d-4481-ba22-b3b421440ecd.jpg)
 2. PCに接続する。
 3. 1でジャンプさせたものを取り外す。
 4. コマンド実行
