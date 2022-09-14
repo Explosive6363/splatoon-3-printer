@@ -33,7 +33,7 @@ pip3 install pillow
    2. `git submodule update --init --recursive`
 3. 320x120サイズのpng形式の画像を用意する。
 4. 用意した画像をコンバートする
-   1. `python3 png2c.py -p splatoonpattern.png`
+   1. `python3 png2c.py -p {用意した画像のpath}`
 5. コンパイル
    1. `make`
 
